@@ -73,9 +73,9 @@ data brokers or advertisers.
 
 Short-lived service metadata is removed automatically within 24 hours.
 Questions or deletion requests concerning data still controlled by Gikachbot
-may be initiated through a GitHub issue. Do not place Telegram IDs or other
-personal information in a public issue; request a private contact channel
-first.
+may be sent to [3953574@gmail.com](mailto:3953574@gmail.com). A GitHub issue
+may be used for general questions, but Telegram IDs and other personal
+information must not be placed in a public issue.
 
 ## Changes
 
@@ -85,5 +85,5 @@ The current version and its update date will remain available at this URL.
 ## Contact
 
 - Telegram service: [@gikachbot](https://t.me/gikachbot)
-- Documentation contact: use the repository's GitHub Issues section
-
+- Email: [3953574@gmail.com](mailto:3953574@gmail.com)
+- General documentation questions: use the repository's GitHub Issues section

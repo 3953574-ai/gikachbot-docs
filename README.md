@@ -28,7 +28,7 @@ Telegram chat that requested it.
 
 ## Contact
 
-For documentation or privacy questions, open a GitHub issue without including
-private account information. A private contact method can then be arranged if
-identity verification is required.
-
+For documentation, data-deletion or privacy questions, contact
+[3953574@gmail.com](mailto:3953574@gmail.com). A GitHub issue may also be used
+for general questions, but private account information must not be posted in a
+public issue.
